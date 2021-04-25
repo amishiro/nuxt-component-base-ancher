@@ -5,9 +5,11 @@
 <script>
 export default {
   props: {
+    // アンカーリンク用のid - 必須
     id: {
       type: String,
       default: undefined,
+      require: true,
     },
   },
   mounted() {
