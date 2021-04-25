@@ -1,2 +1,2 @@
 # nuxt-component-base-ancher
-vue-scrolltoと連携したアンカーリンク用のコンポーネント
+よく利用するvue-scrolltoと連携したアンカーリンク用のコンポーネント
